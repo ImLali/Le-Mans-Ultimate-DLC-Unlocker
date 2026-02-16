@@ -1,4 +1,4 @@
-LE Mans Ultimate – DLC UNLOCKER
+Le Mans Ultimate – DLC UNLOCKER
 ===========================================================
 
  Lightweight installer for unlocking DLC content for LMU
