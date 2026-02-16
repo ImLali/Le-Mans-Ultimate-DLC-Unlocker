@@ -1,0 +1,6 @@
+[0216/152926.211:WARNING:main_context_impl.cc(92)] Windowless rendering requires Alloy style.
+[0216/152926.212:WARNING:main_context_impl.cc(130)] Using Alloy style; Native-hosted window; Windowless rendering (not a warning)
+[0216/163806.677:WARNING:main_context_impl.cc(92)] Windowless rendering requires Alloy style.
+[0216/163806.678:WARNING:main_context_impl.cc(130)] Using Alloy style; Native-hosted window; Windowless rendering (not a warning)
+[0216/171435.335:WARNING:main_context_impl.cc(92)] Windowless rendering requires Alloy style.
+[0216/171435.336:WARNING:main_context_impl.cc(130)] Using Alloy style; Native-hosted window; Windowless rendering (not a warning)

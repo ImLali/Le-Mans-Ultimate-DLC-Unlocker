@@ -1,0 +1,32 @@
+I|17:14:35.175|                   smoke_api.cpp:283 | 26456|SmokeAPI v4.1.3 | Built at 'Sun Jan 18 00:57:53 2026'
+D|17:14:35.175|                   smoke_api.cpp:284 | 26456|Parsed config:
+{
+  "$version": 4,
+  "logging": true,
+  "log_steam_http": false,
+  "default_app_status": "unlocked",
+  "override_app_status": {},
+  "override_dlc_status": {},
+  "extra_dlcs": {},
+  "auto_inject_inventory": true,
+  "extra_inventory_items": []
+}
+D|17:14:35.175|                   smoke_api.cpp:289 | 26456|Process name: 'PluginsAdapter.exe' [64-bit]
+D|17:14:35.175|                   smoke_api.cpp:290 | 26456|Self name: 'WINMM.dll'
+D|17:14:35.179|                        hook.cpp:401 | 26456|Hooking initialization
+I|17:14:35.179|                   smoke_api.cpp:300 | 26456|Detected hook mode
+D|17:14:35.179|                 lib_monitor.cpp:64  | 26456|Initializing library monitor...
+D|17:14:35.179|                 lib_monitor.cpp:69  | 26456|Library monitor initialized
+I|17:14:35.179|                   smoke_api.cpp:310 | 26456|Initialization complete
+D|17:14:37.342|                   smoke_api.cpp:357 | 12540|No cached App ID found. Searching in environment variables.
+D|17:14:37.342|                   smoke_api.cpp:180 | 12540|Found AppID from environment: 2399420
+I|17:14:37.342|                  steam_apps.cpp:109 | 12540|ISteamApps_BIsDlcInstalled -> App ID:  2399420, DLC ID:  3260820, Unlocked: true
+I|17:14:37.344|                  steam_apps.cpp:109 | 12540|ISteamApps_BIsDlcInstalled -> App ID:  2399420, DLC ID:  3260820, Unlocked: true
+D|17:14:58.475|                 lib_monitor.cpp:105 | 26456|DLL loaded: 'kernel.appcore'
+D|17:14:58.475|                 lib_monitor.cpp:105 | 26456|DLL loaded: 'kernel.appcore'
+D|17:14:58.480|                 lib_monitor.cpp:80  | 26456|Shutting down library monitor...
+D|17:14:58.480|                 lib_monitor.cpp:85  | 26456|Library monitor shut down
+I|17:14:58.480|                   smoke_api.cpp:343 | 26456|Shutdown complete
+D|17:14:58.480|                 lib_monitor.cpp:80  | 26456|Shutting down library monitor...
+D|17:14:58.480|                 lib_monitor.cpp:85  | 26456|Library monitor shut down
+I|17:14:58.480|                   smoke_api.cpp:343 | 26456|Shutdown complete

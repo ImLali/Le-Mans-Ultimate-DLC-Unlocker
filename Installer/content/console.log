@@ -1,0 +1,43 @@
+Level: Info:%c Initializing Sentry color: green; font-weight: bold;Level: Info:No user account found to create a sessionLevel: Info:No user account found to create a sessionLevel: Info:Unable to reauthenticate the user with Nakama, NoUserAccountLevel: Error:Invalid input. Please provide a valid name string and specify "first" or "last" for the part parameter.Level: Error:Invalid input. Please provide a valid name string and specify "first" or "last" for the part parameter.Level: Info:[object Object]Level: Info:Policy versions:  [object Object]Level: Info:[object Response]Level: Info:Policy versions:  [object Object]Level: Warn:Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Mon Feb 16 2026 15:30:42 GMT+0100, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:3)
+    at $ie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:26127)
+    at Yie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29927)
+    at XV (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29788)
+    at Kie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29501)
+    at HV (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:30297)
+    at j1 (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:30332)
+    at be (http://localhost:6397/start/assets/index-B4j0E-Es.js:55:32)
+    at Ja0 (http://localhost:6397/start/assets/index-B4j0E-Es.js:173:301067)
+    at xN (http://localhost:6397/start/assets/index-B4j0E-Es.js:40:19561)
+    at gw (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:3157)
+    at cV (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:44906)
+    at aV (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39845)
+    at Sse (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39771)
+    at nv (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39621)
+    at Pk (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:36733)
+    at Zu (http://localhost:6397/start/assets/index-B4j0E-Es.js:40:3297)
+    at http://localhost:6397/start/assets/index-B4j0E-Es.js:42:34306Level: Info:Policy versions:  [object Object]Level: Info:%c Initializing Sentry color: green; font-weight: bold;Level: Info:Policy versions:  [object Object]Level: Warn:Deprecation warning: value provided is not in a recognized RFC2822 or ISO format. moment construction falls back to js Date(), which is not reliable across all browsers and versions. Non RFC2822/ISO date formats are discouraged. Please refer to http://momentjs.com/guides/#/warnings/js-date/ for more info.
+Arguments: 
+[0] _isAMomentObject: true, _isUTC: false, _useUTC: false, _l: undefined, _i: Mon Feb 16 2026 16:38:20 GMT+0100, _f: undefined, _strict: undefined, _locale: [object Object]
+Error
+    at Function.createFromInputFallback (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:3)
+    at $ie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:26127)
+    at Yie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29927)
+    at XV (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29788)
+    at Kie (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:29501)
+    at HV (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:30297)
+    at j1 (http://localhost:6397/start/assets/index-B4j0E-Es.js:58:30332)
+    at be (http://localhost:6397/start/assets/index-B4j0E-Es.js:55:32)
+    at Ja0 (http://localhost:6397/start/assets/index-B4j0E-Es.js:173:301067)
+    at xN (http://localhost:6397/start/assets/index-B4j0E-Es.js:40:19561)
+    at gw (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:3157)
+    at cV (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:44906)
+    at aV (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39845)
+    at Sse (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39771)
+    at nv (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:39621)
+    at Pk (http://localhost:6397/start/assets/index-B4j0E-Es.js:42:36733)
+    at Zu (http://localhost:6397/start/assets/index-B4j0E-Es.js:40:3297)
+    at http://localhost:6397/start/assets/index-B4j0E-Es.js:42:34306Level: Info:%c Initializing Sentry color: green; font-weight: bold;
