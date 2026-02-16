@@ -21,9 +21,9 @@ LE Mans Ultimate – DLC UNLOCKER
  INSTALLATION
 -----------------------------------------------------------
 
-  1. Download the LATEST RELEASE on github from ACCC.
+  1. Download the LATEST RELEASE on github from LMUC (https://github.com/ImLali/Le-Mans-Ultimate-DLC-Unlocker/releases/tag/LeMansUltimateDLCUnlocker).
   2. Extract the archive.
-  3. Run the executable file.
+  3. Run the executable file (turn off Windows Smart App Control if it blocks the Installer).
 
   When the program opens:
 
