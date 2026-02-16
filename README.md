@@ -1,7 +1,7 @@
-Assetto Corsa Competizione – DLC UNLOCKER
+LE Mans Ultimate – DLC UNLOCKER
 ===========================================================
 
- Lightweight installer for unlocking DLC content for ACC
+ Lightweight installer for unlocking DLC content for LMU
 
 -----------------------------------------------------------
  FEATURES
@@ -15,7 +15,7 @@ Assetto Corsa Competizione – DLC UNLOCKER
  REQUIREMENTS
 -----------------------------------------------------------
 
-  • Installed copy of Assetto Corsa Competizione (must be steam version)
+  • Installed copy of Le Mans Ultimate (must be steam version)
 
 -----------------------------------------------------------
  INSTALLATION
@@ -35,8 +35,7 @@ Assetto Corsa Competizione – DLC UNLOCKER
  DEFAULT GAME LOCATION (STEAM)
 -----------------------------------------------------------
 
-  C:\Program Files (x86)\Steam\steamapps\common\
-  Assetto Corsa Competizione
+  C:\Program Files (x86)\Steam\steamapps\common\Le Mans Ultimate
 
 -----------------------------------------------------------
  USAGE
@@ -63,8 +62,6 @@ Assetto Corsa Competizione – DLC UNLOCKER
 -----------------------------------------------------------
 
   I'm not responsible for additional in-game banns or anything caused by my tool! 
-  We tested and using it for years, no ingame ban so far, but use it on your own risk ;D 
-  Enjoy!
 
 -----------------------------------------------------------
  LICENSE
