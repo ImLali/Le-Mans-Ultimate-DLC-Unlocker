@@ -27,7 +27,7 @@ Le Mans Ultimate – DLC UNLOCKER
 
   When the program opens:
 
-     → Select your Assetto Corsa Competizione folder
+     → Select your Le Mans Untimate game folder
      → Click INSTALL
      → Wait for completion
 
