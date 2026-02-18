@@ -59,14 +59,16 @@ Le Mans Ultimate – DLC UNLOCKER
     - Turn off Smart App Control (required because latest Win 11 update) 
 
   Content not appearing:
+    
     - Restart the game
+    
     - Re-run installer & confirm path
 
 -----------------------------------------------------------
  DISCLAIMER
 -----------------------------------------------------------
 
-  I'm not responsible for additional in-game banns or anything caused by my tool! 
+  I'm not responsible for additional in-game bans or anything caused by my tool! 
 
 -----------------------------------------------------------
  LICENSE
