@@ -49,9 +49,13 @@ Le Mans Ultimate – DLC UNLOCKER
 -----------------------------------------------------------
 
   Installation fails:
+   
     - Verify the selected folder
+    
     - Run as Administrator
+    
     - Check antivirus interference
+    
     - Turn off Smart App Control (required because latest Win 11 update) 
 
   Content not appearing:
